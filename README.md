@@ -52,12 +52,12 @@ To evaluate/train ISSGA-Stereo, you will need to download the required datasets.
     ├── Middlebury
         ├── trainingH
         ├── trainingH_GT
+        ├── trainingQ
+        ├── trainingQ_GT
     ├── ETH3D
         ├── two_view_training
         ├── two_view_training_gt
-    ├── DTU_data
-        ├── dtu_train
-        ├── dtu_test
+
 ```
 
 
