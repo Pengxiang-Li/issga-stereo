@@ -1,7 +1,9 @@
 # ISSGA-Stereo 
 
 
-Pytorch implementation of the paper  "Inter-Scale Similarity Guided Cost Aggregation for Stereo Matching". This repo is keeping update.
+Pytorch implementation of the paper  "Inter-Scale Similarity Guided Cost Aggregation for Stereo Matching". This repo is keeping update. 
+
+** I've been involved in a car accident recently. As a result, I have sustained a fracture in my right hand. This unfortunate incident is expected to impact the timeline for the upcoming code updates. 😭**
 
 > For the core code, please refer to  ./models./issga.py
 
